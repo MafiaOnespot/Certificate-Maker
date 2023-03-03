@@ -1,4 +1,5 @@
 # certificate-maker
-https://replit.com/@MafiaOnespot/certificate-maker-2?v=1
+
+https://certificate-maker-2.mafiaonespot.repl.co/
 
 Hello guys, I have made a certificate maker using php i hope you'll love 
